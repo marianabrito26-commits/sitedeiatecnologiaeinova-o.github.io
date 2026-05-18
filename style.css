@@ -1,3 +1,13 @@
-div{
-  color:pink;
+/*Seleciona o corpo inteiro da página*/
+body{ 
+  /*define a cor do texto*/
+  color: black
+  /*background-color: red;
 }
+
+.clicker-script-regular {
+  font-family: "Clicker Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
